@@ -1,6 +1,6 @@
 # spotify_search
-
-A new Flutter project.
+# Description:
+Search for artist and their album using spotify api.
 
 ## Getting Started
 
@@ -13,6 +13,12 @@ For Flutter documentaion installation, refer to this link. [Flutter Documentatio
 
 After installing flutter package and pulling the project, navigate into the directory of the pulled project, open the emulator, and execute Flutter run command.
 [Flutter Documentation](https://flutter.dev/docs/get-started/install).
+
+# Instruction:
+The new spotify api update may require the users to be registered manually when the app is still in development mode otherwise albums of the artist won't be displayed. 
+In that case you can use this email and password for development testing, since it is registered in the dashboard: <br/>
+email: betaTestMusicApp@gmail.com <br/>
+password: helloworld
 
 # Preview:
 
